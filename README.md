@@ -15,11 +15,6 @@ This leads to stress, poor time management, and incomplete syllabus coverage.
 
 ---
 
-## 🚀 Live Demo
-👉 https://smart-study-planner-app.streamlit.app/
-
----
-
 ## 💡 Solution
 Smart Study Planner provides:
 - Subject & topic management
@@ -29,6 +24,11 @@ Smart Study Planner provides:
 - Smart study suggestions
 
 All in one simple dashboard.
+
+---
+
+## 🚀 Live Demo
+👉 https://smart-study-planner-app.streamlit.app/board.
 
 ---
 
@@ -44,14 +44,15 @@ All in one simple dashboard.
 ---
 
 ## 🎯 Feature Scope
-   ✅ Current Features
+
+### ✅ Current Features
 -  Create and manage subjects & topics
 -  Track completed and pending topics
 -  Monitor overall study progress
 -  Use a study timer for focused sessions
 -  Save doubts with helpful learning resources
 
-🚀 Future Enhancements
+### 🚀 Future Enhancements
 -  AI-based personalized study plans
 -  Reminder & notification system
 -  Calendar integration (Google Calendar)
@@ -66,11 +67,6 @@ All in one simple dashboard.
 - Streamlit
 - Session State
 - Date & Time module
-
----
-
-## 🏁 Conclusion
-   Smart Study Planner simplifies study planning, improves consistency, and helps students prepare more effectively for exams using a structured and stress-free       approach
 
 ---
 
