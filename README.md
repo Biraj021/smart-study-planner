@@ -15,6 +15,11 @@ This leads to stress, poor time management, and incomplete syllabus coverage.
 
 ---
 
+## 🚀 Live Demo
+👉 https://smart-study-planner-app.streamlit.app/
+
+---
+
 ## 💡 Solution
 Smart Study Planner provides:
 - Subject & topic management
