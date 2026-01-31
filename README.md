@@ -43,6 +43,24 @@ All in one simple dashboard.
 
 ---
 
+##🎯 Feature Scope
+ ✅ Current Features
+- Create and manage subjects & topics
+- Track completed and pending topics
+- Monitor overall study progress
+- Use a study timer for focused sessions
+- Save doubts with helpful learning resources
+
+🚀 Future Enhancements
+- AI-based personalized study plans
+- Reminder & notification system
+- Calendar integration (Google Calendar)
+- Advanced analytics & performance reports
+- Mobile-friendly version
+- Cloud database for multi-device access
+
+---
+
 ## 🛠 Technology Stack
 - Python
 - Streamlit
@@ -55,3 +73,8 @@ All in one simple dashboard.
 ```bash
 pip install streamlit
 streamlit run app.py
+
+---
+
+## 🏁 Conclusion
+   Smart Study Planner simplifies study planning, improves consistency, and helps students prepare more effectively for exams using a structured and stress-free       approach.
