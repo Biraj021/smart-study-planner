@@ -69,12 +69,12 @@ All in one simple dashboard.
 
 ---
 
+## 🏁 Conclusion
+   Smart Study Planner simplifies study planning, improves consistency, and helps students prepare more effectively for exams using a structured and stress-free       approach
+
+---
+
 ## ▶️ How to Run the Project
 ```bash
 pip install streamlit
 streamlit run app.py
-
----
-
-## 🏁 Conclusion
-   Smart Study Planner simplifies study planning, improves consistency, and helps students prepare more effectively for exams using a structured and stress-free       approach.
