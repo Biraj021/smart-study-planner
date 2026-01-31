@@ -43,21 +43,21 @@ All in one simple dashboard.
 
 ---
 
-##🎯 Feature Scope
- ✅ Current Features
-- Create and manage subjects & topics
-- Track completed and pending topics
-- Monitor overall study progress
-- Use a study timer for focused sessions
-- Save doubts with helpful learning resources
+## 🎯 Feature Scope
+   ✅ Current Features
+-  Create and manage subjects & topics
+-  Track completed and pending topics
+-  Monitor overall study progress
+-  Use a study timer for focused sessions
+-  Save doubts with helpful learning resources
 
 🚀 Future Enhancements
-- AI-based personalized study plans
-- Reminder & notification system
-- Calendar integration (Google Calendar)
-- Advanced analytics & performance reports
-- Mobile-friendly version
-- Cloud database for multi-device access
+-  AI-based personalized study plans
+-  Reminder & notification system
+-  Calendar integration (Google Calendar)
+-  Advanced analytics & performance reports
+-  Mobile-friendly version
+-  Cloud database for multi-device access
 
 ---
 
